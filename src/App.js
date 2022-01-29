@@ -5,6 +5,7 @@ const App = () => {
   return (
     <div>
       <h3>Hello, My Name Is Mohammad Borabadi</h3>
+      <p>University is Pnu</p>
     </div>
   );
 };
